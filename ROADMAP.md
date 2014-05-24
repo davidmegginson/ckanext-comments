@@ -9,4 +9,4 @@ Here's the basic road map for developing the extension:
 1. Create a form and a controller for adding basic comments. (This gets us to _Minimum Viable Product_ &mdash; the rest is icing.)
 1. Integrate comments with CKAN's event/notification system.
 1. Integrate comments with CKAN's search system.
-1. Add comment threading and others bells/whistles. Maybe consider rolling comments up to groups and organisations. Let people rate comments as useful. etc. etc.
+1. Add comment threading, comment filtering/sorting, and others bells and whistles. Maybe consider rolling comments up to groups and organisations. Let people rate comments as useful. etc. etc.
