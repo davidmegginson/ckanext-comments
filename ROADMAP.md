@@ -10,3 +10,5 @@ Here's the basic road map for developing the extension:
 1. Integrate comments with CKAN's event/notification system.
 1. Integrate comments with CKAN's search system.
 1. Add comment threading, comment filtering/sorting, and others bells and whistles. Maybe consider rolling comments up to groups and organisations. Let people rate comments as useful. etc. etc.
+
+_David Megginson, 2014-05-24_
